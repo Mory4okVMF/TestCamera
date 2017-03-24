@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_e9b1a6886310ce2e8527aa5f256282f5d022a2de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5560dc91630b813ec3fc42f603d24f0ea0e5f4a7">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2a3871609028d629caaf6ffcf01f44d98b119131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a933bf693345641adb274260d7e2b0414f141d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6d61f0a789494410ee211e17b148c07398c10eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_6afc620a428f6d4ac71740e4e2f0eac45d0c9c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_14d65d183ec8274e03e58ec43751beac2125e91d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_395401ae761dff0788fe7bd4a96c179da2f6988c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_16afc2453bfe52eec052c9835dd00a4959a31e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c2872e80a66f0e353b649e9e5d1a79112a41872f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f8d152feb3d87c07f5fd25ac2f9df12dba55b6">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/instant-run_972120ad9bb3a14a78b1a03ada78d657d76b950b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c9dac65e7636e9fc64312f50dd1af2635d351343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5075cebcf8f88562f1efbfae62c7a0e3e82a1df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_370e2930dd9aba5189188e6eede207cd8f472c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_e071384c2d2f29762e17a4437acbb1caca35fc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_eee22f3d23756ab67c6812902ba8b344516f4611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6ccf845d4de4ca6658db54df0b84fc4a02744e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Mory4ok/Desktop/Android/TestCamera/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4c4e28eaae0cd1dab2f7b0ce709091fdd19da849.jar" />
+    </item>
+
+</items>
